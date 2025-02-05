@@ -1,12 +1,21 @@
 {
-  "name": "Gamani Token",
-  "symbol": "GAM",
-  "description": "Only Possible On Solana",
-  "image": "https://raw.githubusercontent.com/hanbong10/pub/refs/heads/main/gamani.png",
-  "attributes": [
-    {
-      "trait_type": "Item",
-      "value": "Developer Portal"
-    }
-  ]
-}
+    "name": "Gamani 1 Token",
+    "symbol": "GAM",
+    "description": "Gamani Token Proj",
+    "image": "https://raw.githubusercontent.com/hanbong10/pub/refs/heads/main/gamani.png",
+    "uri": "https://raw.githubusercontent.com/hanbong10/pub/refs/heads/main/gamani_metadata.json",
+    "seller_fee_basis_points": 100,
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ],
+    "creators": [
+        {
+        "address": "GxzNC9eNp81E1cm5nMQwhkWR72WVrPo1rtjkwboqbHML",
+        "verified": true,
+        "share": 100
+        }
+    ]
+  }
