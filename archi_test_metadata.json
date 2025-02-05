@@ -1,0 +1,12 @@
+{
+  "name": "Archi-Fi Test Token",
+  "symbol": "ARCT",
+  "description": "Archi-Fi Test Toke",
+  "image": "https://raw.githubusercontent.com/hanbong10/pub/refs/heads/main/archifi_t0.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
