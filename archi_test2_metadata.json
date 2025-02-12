@@ -3,6 +3,7 @@
   "symbol": "ARCT2",
   "description": "Archi-Fi Test2 Toke",
   "image": "https://raw.githubusercontent.com/hanbong10/pub/refs/heads/main/archifi_t2.png",
+  "uri": "https://raw.githubusercontent.com/hanbong10/pub/refs/heads/main/archi_test2_metadata.json",
   "attributes": [
     {
       "trait_type": "Item",
