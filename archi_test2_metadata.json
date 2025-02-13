@@ -9,5 +9,20 @@
       "trait_type": "Item",
       "value": "Developer Portal"
     }
-  ]
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hanbong10/pub/refs/heads/main/archifi_t2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GxzNC9eNp81E1cm5nMQwhkWR72WVrPo1rtjkwboqbHML",
+        "share": 100
+      }
+    ]
+  }
 }
