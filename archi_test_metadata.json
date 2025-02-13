@@ -2,6 +2,7 @@
   "name": "Archi-Fi Test Token",
   "symbol": "ARCT",
   "description": "Archi-Fi Test Toke",
+  "logoURI": "https://raw.githubusercontent.com/hanbong10/pub/refs/heads/main/archifi_t2.png",
   "image": "https://raw.githubusercontent.com/hanbong10/pub/refs/heads/main/archifi_t2.png",
   "attributes": [
     {
